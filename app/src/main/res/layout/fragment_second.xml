@@ -25,7 +25,7 @@
         android:layout_marginStart="4dp"
         android:layout_marginTop="4dp"
         android:backgroundTint="@color/red"
-        android:text="Повернутися назад"
+        android:text="Початкова сторінка"
         android:textColor="@color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
